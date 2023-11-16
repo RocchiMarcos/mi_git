@@ -10,8 +10,8 @@ namespace Git2
     {
         static void Main(string[] args)
         {
-            "este texto nod eberia aparecer en la rama main, fue creado en el ID de creacion .gitingore" +
-             "donde se deprende la login y este texto fue creado en esta rama enuna carpeta que comparten ambas ramas la GIT2"
+            "este texto no deberia aparecer en la rama main, fue creado en la rama login desprendida del id .gitingore, ultimo commit que comparte con la rama master" +
+             "ahora mismo, al crear un MARGE en la rama master tiene que aparecer en la rama master igual"
         }
     }
 }
