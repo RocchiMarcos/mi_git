@@ -10,6 +10,8 @@ namespace Git2
     {
         static void Main(string[] args)
         {
+            "este texto nod eberia aparecer en la rama main, fue creado en el ID de creacion .gitingore" +
+             "donde se deprende la login y este texto fue creado en esta rama enuna carpeta que comparten ambas ramas la GIT2"
         }
     }
 }
